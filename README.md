@@ -37,4 +37,6 @@ npm run verify           # npm test && npm run build
 
 ## Case study link
 
-The case study page lands in a later step; the portfolio lives at https://ferminquant.github.io/personal-portfolio/.
+Walkthrough: https://ferminquant.github.io/personal-portfolio/examples/operations/queue-backlog-observability/
+
+Portfolio: https://ferminquant.github.io/personal-portfolio/
