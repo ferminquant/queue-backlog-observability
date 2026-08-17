@@ -9,12 +9,15 @@
   },
   "scripts": {
     "build": "tsc --noEmit",
-    "scenario": "tsx src/run-scenario.ts"
+    "scenario": "tsx src/run-scenario.ts",
+    "runbook": "tsx src/run-runbook.ts",
+    "test": "vitest run",
+    "verify": "npm test && npm run build"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
     "tsx": "^4.16.2",
     "typescript": "^5.5.4",
-    "vitest": "^2.0.4"
+    "vitest": "^3.0.0"
   }
 }
