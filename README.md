@@ -37,6 +37,6 @@ npm run verify           # npm test && npm run build
 
 ## Case study link
 
-Walkthrough: https://ferminquant.github.io/personal-portfolio/examples/operations/queue-backlog-observability/
+Walkthrough: https://ferminquant.com/examples/operations/queue-backlog-observability/
 
-Portfolio: https://ferminquant.github.io/personal-portfolio/
+Portfolio: https://ferminquant.com/
